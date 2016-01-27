@@ -1,0 +1,7 @@
+#ifndef NETZWERKINTERFACENAMEN_H_INCLUDED
+#define NETZWERKINTERFACENAMEN_H_INCLUDED
+
+int getInterfacenames();
+int getInterfacenames2();
+
+#endif // NETZWERKINTERFACENAMEN_H_INCLUDED

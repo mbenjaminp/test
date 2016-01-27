@@ -1,0 +1,6 @@
+#ifndef INSTANCEFINDER_H_INCLUDED
+#define INSTANCEFINDER_H_INCLUDED
+
+int findInstances ();
+
+#endif // INSTANCEFINDER_H_INCLUDED
