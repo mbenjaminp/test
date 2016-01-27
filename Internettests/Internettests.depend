@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1453561809 source:c:\users\benje\desktop\c++\internettests\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<map>
+	"Netzwerkinterfacenamen.h"
+	"Instancefinder.h"
+
+1452707987 c:\users\benje\desktop\c++\internettests\include\netzwerkinterfacenamen.h
+
+1452707426 source:c:\users\benje\desktop\c++\internettests\src\test.cpp
+	"Test.h"
+
+1452707468 c:\users\benje\desktop\c++\internettests\include\test.h
+
+1452779656 c:\users\benje\desktop\c++\internettests\netzwerkinterfacenamen.h
+
+1452793770 source:c:\users\benje\desktop\c++\internettests\netzwerkinterfacenamen.cpp
+	"Netzwerkinterfacenamen.h"
+	<winsock2.h>
+	<ws2ipdef.h>
+	<iphlpapi.h>
+	<stdio.h>
+
+1453040244 c:\users\benje\desktop\c++\internettests\instancefinder.h
+
+1453218694 source:c:\users\benje\desktop\c++\internettests\instancefinder.cpp
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string.h>
+	<thread>
+	<chrono>
+	"Instancefinder.h"
+	"Constants.h"
+	"Multicastsender.h"
+	"Multicastlistener.h"
+
+1453561327 c:\users\benje\desktop\c++\internettests\constants.h
+	<string.h>
+
+1453560701 c:\users\benje\desktop\c++\internettests\multicastsender.h
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string.h>
+	<thread>
+	<chrono>
+	"Constants.h"
+
+1453560701 c:\users\benje\desktop\c++\internettests\multicastlistener.h
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string.h>
+	<thread>
+	<chrono>
+	<vector>
+	"Constants.h"
+
