@@ -2,32 +2,7 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="Multicastsender.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4193" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="144" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Netzwerkinterfacenamen.cpp" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="843" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Multicastlistener.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="629" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Netzwerkinterfacenamen.h" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="139" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Constants.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Constants.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="419" topLine="0" />
 		</Cursor>
@@ -42,5 +17,30 @@
 			<Cursor1 position="97" topLine="0" />
 		</Cursor>
 	</File>
-	<EditorTabsLayout layout="08f2cfd856a391e000005d8900000002=2;Internettests:Instancefinder.h,1;Internettests:Instancefinder.cpp,5;Internettests:Multicastsender.h,9;Internettests:Multicastlistener.h,*4;Internettests:Netzwerkinterfacenamen.cpp,11;Internettests:InstancefinderwithIF.h,12;Internettests:InstancefinderwithIF.cpp,0;Internettests:main.cpp,3;Internettests:Constants.h,15;Internettests:Multicastsender.cpp,16;Internettests:Multicastlistener.cpp,17;Internettests:Netzwerkinterfacenamen.h,6;Internettests:Instancefinder.h,7;Internettests:Instancefinder.cpp,8;Internettests:Multicastsender.h,10;Internettests:Netzwerkinterfacenamen.cpp,13;Internettests:main.cpp,14;Internettests:Constants.h,18;Internettests:Netzwerkinterfacenamen.h,19;Internettests:Multicastlistener.h@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=854;besth=373;minw=854;minh=373;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=08f2cfd856a391e000005d8900000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+	<File name="Multicastlistener.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="629" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Netzwerkinterfacenamen.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="139" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Multicastsender.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4193" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="144" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Netzwerkinterfacenamen.cpp" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="843" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="08ecbdb856a8bdf60000333700000002=0;Internettests:Instancefinder.h,1;Internettests:Instancefinder.cpp,2;Internettests:Multicastsender.h,7;Internettests:Multicastlistener.h,*3;Internettests:Netzwerkinterfacenamen.cpp,4;Internettests:main.cpp,5;Internettests:Constants.h,6;Internettests:Netzwerkinterfacenamen.h,0;Internettests:Instancefinder.h,1;Internettests:Instancefinder.cpp,2;Internettests:Multicastsender.h,*3;Internettests:Netzwerkinterfacenamen.cpp,4;Internettests:main.cpp,5;Internettests:Constants.h,6;Internettests:Netzwerkinterfacenamen.h,7;Internettests:Multicastlistener.h@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=854;besth=373;minw=854;minh=373;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=08ecbdb856a8bdf60000333700000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
 </CodeBlocks_layout_file>

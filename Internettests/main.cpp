@@ -5,7 +5,8 @@
 #include <map>
 #include "Netzwerkinterfacenamen.h"
 #include "Instancefinder.h"
-#include "Constants.h"
+#include "InstancefinderwithIF.h"
+
 
 
 
@@ -62,7 +63,7 @@ int main()
             case EINS: getInterfacenames(); break;
             case ZWEI: getInterfacenames2(); break;
             case DREI: findInstances(); break;
-            case VIER: break;
+            case VIER: findInstanceswithIF(); break;
             case EXIT: exit(1);
             default: break;
         }

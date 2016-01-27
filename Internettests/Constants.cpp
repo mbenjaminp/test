@@ -10,4 +10,4 @@ int Constants::INITIALSENDS = 3;                                   //How often s
 char Constants::LOOPBACK = 0;                                      //Says, if sender will also send back to own device
 int Constants::SENDSLEEPTIME = 5000;                               //Defines the wait time between multicast sends for the Multicastsender
 int Constants::RECVBUFFERLENGTH = 128;                             //Defines the bufferlength for Multicastlistener
-
+unsigned long Constants::RECVFROMTIMEOUTMILLISEC = 5500;                   //Defines the timeout (Milliseconds) for the Multicastlisteners recvfrom
