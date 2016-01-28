@@ -41,10 +41,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Constants.cpp" />
 		<Unit filename="Constants.h" />
 		<Unit filename="Instancefinder.cpp" />
 		<Unit filename="Instancefinder.h" />
+		<Unit filename="InstancefinderwithIF.cpp" />
+		<Unit filename="InstancefinderwithIF.h" />
+		<Unit filename="Multicastlistener.cpp" />
 		<Unit filename="Multicastlistener.h" />
+		<Unit filename="Multicastsender.cpp" />
 		<Unit filename="Multicastsender.h" />
 		<Unit filename="Netzwerkinterfacenamen.cpp" />
 		<Unit filename="Netzwerkinterfacenamen.h" />
